@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Software Engineer working from Indonesia. I craft things by leveraging web capabilities, specializing in frontend area building performant web apps. Although my work is mostly in the frontend area, I can handle the backend when needed.
 
 #### Now
-- 🔭 I'm currently working at [eFishery](https://efishery.com) 🐟 as a Product Engineer.
+- 🔭 I'm currently working at [Quipper](https://quipper.com) as a Software Engineer.
 - 🌱 I'm currently learning about how web framework works.
 - 👨🏻‍💻 I speak daily: `.js` / `.ts` (including CSS-in-JS 😛)
 - 👯 I’m looking to collaborate on any open source projects related to React and JavaScript.
