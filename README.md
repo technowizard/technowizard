@@ -1,28 +1,7 @@
-### Hi there, I'm [Fadhil](https://mfadhil.me) 👋
+### Hi there, I'm [Fadhil](https://mfadhil.me) 👋 A software engineer specializing in frontend development, based in Indonesia 🇮🇩
 
-<!--
-**technowizard/technowizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I craft things for the web and love to help strike a balance between functional and aesthetic design.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Software Engineer working from Indonesia. I craft things by leveraging web capabilities, specializing in frontend area building performant web apps. Although my work is mostly in the frontend area, I can handle the backend when needed.
-
-#### Now
-- 🔭 I'm currently working at [Quipper](https://quipper.com) as a Software Engineer.
-- 🌱 I'm currently learning about how web framework works.
-- 👨🏻‍💻 I speak daily: `.js` / `.ts` (including CSS-in-JS 😛)
-- 👯 I’m looking to collaborate on any open source projects related to React and JavaScript.
-- 💬 You can ask me about Progressive Web App or frontend-related topic.
+- 🌱 I'm currently learning about how to build a SaaS product, sometimes I create fun projects for my experiment
 - 📫 Feel free to reach me through [my personal email](mailto:mail@mfadhil.me) or at [LinkedIn](https://www.linkedin.com/in/mfadhil)
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: A former cloud/infrastructure engineer who ends up shifting career as a software engineer.
+- ⚡ Fun fact: A former cloud/infrastructure engineer who ends up shifting his career to a software engineer.
