@@ -1,7 +1,13 @@
-### Hi there, I'm [Fadhil](https://mfadhil.me) 👋
+### Hi, I'm Fadhil 👋
 
-A software engineer specializing in frontend development, based in Indonesia 🇮🇩 I craft things for the web and love to help strike a balance between functional and aesthetic design.
+Senior Frontend Engineer based in Indonesia, specializing in React, TypeScript, and frontend architecture
 
-- 🌱 I'm currently learning about how to build a SaaS product, sometimes I create fun projects for my experiment
-- 📫 Feel free to reach me through [my personal email](mailto:mail@mfadhil.me) or at [LinkedIn](https://www.linkedin.com/in/mfadhil)
-- ⚡ Fun fact: A former cloud/infrastructure engineer who ends up shifting his career to a software engineer.
+8+ years building production systems across fintech, edtech, and aquaculture tech. I care about code that's maintainable, testable, and built to last
+
+Currently working with AI-native development workflows, and a former cloud infrastructure engineer who found his way to the frontend
+
+**Things I'm working on:**
+- 🏗️ monorepo-template — full-stack scaffold for solo and small-team products
+- 📖 A read-later app built on the monorepo template (coming soon)
+
+📬 mail@mfadhil.me · [mfadhil.me](https://mfadhil.me) · [linkedin.com/in/mfadhil](https://linkedin.com/in/mfadhil)
